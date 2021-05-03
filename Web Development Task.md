@@ -1,3 +1,3 @@
-Task1:https://codepen.io/shishiralva20/pen/rNjXzmL </br>
+Task1:https://codepen.io/shishiralva20/full/rNjXzmL </br>
 
-Task2:https://codepen.io/shishiralva20/pen/rNjXGrK
+Task2:https://codepen.io/shishiralva20/full/rNjXGrK
