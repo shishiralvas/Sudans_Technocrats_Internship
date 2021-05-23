@@ -15,6 +15,6 @@ Final Project:   https://codepen.io/shishiralva20/full/YzZNVyv
 
 Quiz App:        https://codepen.io/shishiralva20/full/NWppoQP
 
-Calculator:      https://codepen.io/shishiralva20/full/NWppmoL
+Simple Calculator:      https://codepen.io/shishiralva20/full/NWppmoL
 
 Blog:            https://hashnode.com/post/music-player-application-built-using-javascript-ckozrgn6u0c38dss1755ra3x7
