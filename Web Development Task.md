@@ -13,6 +13,6 @@ Task4: https://codepen.io/shishiralva20/full/OJppamV
 
 Final Project:https://codepen.io/shishiralva20/full/YzZNVyv
 
-Blog: https://hashnode.com/post/music-player-application-built-using-javascript-ckozrgn6u0c38dss1755ra3x7
-
 Quiz App: https://codepen.io/shishiralva20/full/NWppoQP
+
+Blog: https://hashnode.com/post/music-player-application-built-using-javascript-ckozrgn6u0c38dss1755ra3x7
