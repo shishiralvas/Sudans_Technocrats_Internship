@@ -1,5 +1,5 @@
-Task1: (A)https://codepen.io/shishiralva20/full/rNjXzmL 
-       (B)https://codepen.io/shishiralva20/full/rNjXGrK
+Task1: (A)https://codepen.io/shishiralva20/full/rNjXzmL </br>
+       (B)https://codepen.io/shishiralva20/full/rNjXGrK </br>
        (C)https://codepen.io/shishiralva20/full/YzZzLpN </br>
 
 Task2: https://codepen.io/shishiralva20/full/oNZjqYE </br>
