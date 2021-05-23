@@ -5,14 +5,16 @@ Task1:
        </br>
               (C)https://codepen.io/shishiralva20/full/YzZzLpN </br>
 
-Task2: https://codepen.io/shishiralva20/full/oNZjqYE </br>
+Task2:           https://codepen.io/shishiralva20/full/oNZjqYE </br>
 
-Task3: https://codepen.io/shishiralva20/full/GRWWPKq </br>
+Task3:           https://codepen.io/shishiralva20/full/GRWWPKq </br>
 
-Task4: https://codepen.io/shishiralva20/full/OJppamV
+Task4:           https://codepen.io/shishiralva20/full/OJppamV
 
-Final Project:https://codepen.io/shishiralva20/full/YzZNVyv
+Final Project:   https://codepen.io/shishiralva20/full/YzZNVyv
 
-Quiz App: https://codepen.io/shishiralva20/full/NWppoQP
+Quiz App:        https://codepen.io/shishiralva20/full/NWppoQP
 
-Blog: https://hashnode.com/post/music-player-application-built-using-javascript-ckozrgn6u0c38dss1755ra3x7
+Calculator:      https://codepen.io/shishiralva20/full/NWppmoL
+
+Blog:            https://hashnode.com/post/music-player-application-built-using-javascript-ckozrgn6u0c38dss1755ra3x7
